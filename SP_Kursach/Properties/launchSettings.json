@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "SP_Kursach": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
